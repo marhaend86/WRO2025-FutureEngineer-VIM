@@ -7,7 +7,7 @@ This repository contains engineering materials of a self-driven vehicle model pa
 >Member
 - **Valensia Wahyu Pamungkas** from SMK Pawyatan Daha 3 Kediri
 - **Ilham Khefi Ramadhanu** from Universitas Nusantara PGRI Kediri
-- **Mahendra** from Institut Teknologi Al Makrusiyah Lirboyo Kota Kediri
+- **Mahendra** from Institut Teknologi Al Mahrusiyah Lirboyo Kota Kediri
 
 
 Team VIM is an ambitious group of high school and university students who aspire to become leaders in the field of autonomous vehicles. By taking the initiative to participate in the WRO Future Engineers challenge, we aim to deepen our experience in engineering, programming, and problem-solving.
